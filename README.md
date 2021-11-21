@@ -3,7 +3,7 @@
 
 My name's Afonso Monteiro and I'm studying Informatics and Computing Engineering @FEUP
 
-- 🔭 I’m currently working on C++, C, JavaScript, Java 
+- 🔭 I’m currently working on C++, C, JavaScript, Java, HTML 
 - 🌱 I’m currently learning PostgreSQL
 - 💬 Ask me about History! (oddly enough)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/afonso-monteiro-3b9833224/)
