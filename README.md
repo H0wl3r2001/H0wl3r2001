@@ -4,7 +4,7 @@
 My name's Afonso Monteiro and I'm studying Informatics and Computing Engineering @FEUP
 
 - 🔭 I’m currently working on C++, C, JavaScript, Java, HTML, Python
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning TensorFlow
 - 💬 Ask me about History! (oddly enough)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/afonso-monteiro-3b9833224/)
 
